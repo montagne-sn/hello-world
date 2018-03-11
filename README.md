@@ -4,5 +4,5 @@ ajout pour la branche nouvellement créée
 
 essai pour publi
 
-modif depuis git et depuis machine locale !
-
+modif depuis machine locale !
+et le complément depuis git
